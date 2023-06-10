@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ashutosh1089
-- 👀 I’m interested in firmware development, embedded software devlopment and  Machine Learning
+- 👀 Machine Learning, deep learning enthusiast
 - 🌱 I’m currently learning machine learning and its applications
-- 💞️ I’m looking to collaborate on firmware development , embedded software development and Machine learning 
+- 💞️ I’m looking to collaborate on Machine learning , neural networks, deep learning
 - 📫 You can reach me on Linkedln : https://www.linkedin.com/in/ashutosh-tiwari-1089/ or email : krashu130@gmail.com
 
 <!---
