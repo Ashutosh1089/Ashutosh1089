@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ashutosh1089
+- 👋 Hi, I’m @Ashutosh
 - 👀 Machine Learning, deep learning enthusiast
 - 🌱 I’m currently learning machine learning and its applications
 - 💞️ I’m looking to collaborate on Machine learning , neural networks, deep learning
